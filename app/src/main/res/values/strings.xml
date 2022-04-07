@@ -1,0 +1,209 @@
+<resources>
+    <string name="app_name">TravelTim</string>
+    <string name="app_tag_text">Your Smart Travelling Guide</string>
+    <string name="no_desc_available">No description available</string>
+    <string name="hotels">Hotels</string>
+    <string name="places">Places</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="shoppings">Shopping</string>
+    <string name="events">Events</string>
+    <string name="image">image</string>
+
+    <string name="radisson_blu_water_Garden">Radisson Blu Water Garden</string>
+    <string name="pan_pacific_sonargaon">Pan Pacific Sonargaon</string>
+    <string name="the_westin">The Westin</string>
+    <string name="intercontinental_hotel">Intercontinental Hotel</string>
+    <string name="dhaka_regency">Dhaka Regency</string>
+    <string name="le_meridien">Le Meridien</string>
+    <string name="six_seasons">Six Seasons</string>
+    <string name="platinum_grand_banani">Platinum Grand Banani</string>
+
+    <string name="radisson_blu_water_Garden_phone">06629-834555</string>
+    <string name="pan_pacific_sonargaon_phone">02222-240400</string>
+    <string name="the_westin_phone">02222-291988</string>
+    <string name="intercontinental_hotel_phone">02-55663030</string>
+    <string name="dhaka_regency_phone">01713-332651</string>
+    <string name="le_meridien_phone">009638-900089</string>
+    <string name="six_seasons_phone">09604-666666</string>
+    <string name="platinum_grand_banani_phone"> 01922-110993</string>
+
+    <string name="five_star">5-star hotel</string>
+    <string name="four_star">4-star hotel</string>
+    <string name="three_star">3-star hotel</string>
+
+    <string name="radisson_blu_water_Garden_address">Airport Rd, Dhaka 1206</string>
+    <string name="pan_pacific_sonargaon_address">07 Kazi Nazrul Islam Ave, Dhaka 1215</string>
+    <string name="the_westin_address">Main Gulshan Avenue, Plot-01 Rd 45, Dhaka 1212</string>
+    <string name="intercontinental_hotel_address">G, 1 Minto Rd, Dhaka 1000</string>
+    <string name="dhaka_regency_address">Airport Rd, Dhaka 1229</string>
+    <string name="le_meridien_address">79/A Commercial Area Airport Rd, Dhaka 1229</string>
+    <string name="six_seasons_address">Asha Concord, House No 19, Road No 96, Gulshan 2, Plot # 7, Block # NW(J Rd No 51, Dhaka 1212</string>
+    <string name="platinum_grand_banani_address">House# 52 Rd No. 11, Dhaka 1213</string>
+
+    <string name="ahsan_manzil_museum">Ahsan Manzil Museum</string>
+    <string name="lalbagh_fort">Lalbagh Fort</string>
+    <string name="national_martyrs_monument">National Martyrs Monument</string>
+    <string name="bangladesh_national_museum">Bangladesh National Museum</string>
+    <string name="bangladesh_national_parliament">Bangladesh National Parliament</string>
+    <string name="liberation_war_museum">Liberation War Museum</string>
+    <string name="dhakeshwari_mandir">Dhakeshwari Mandir</string>
+    <string name="bangabandhu_sheikh_mujibur_rahman_novo_theatre">Bangabandhu Sheikh Mujibur Rahman Novo Theatre</string>
+
+    <string name="ahsan_manzil_museum_type">Architecture, history, and palace</string>
+    <string name="lalbagh_fort_type">Architecture, history, and palace</string>
+    <string name="national_martyrs_monument_type">Architecture, history, and palace</string>
+    <string name="bangladesh_national_museum_type">National Museum</string>
+    <string name="bangladesh_national_parliament_type">Architecture, history and Parliament</string>
+    <string name="liberation_war_museum_type">Heritage Museum and History</string>
+    <string name="dhakeshwari_mandir_type">Largest Hindu temple and one of the oldest temples in the history</string>
+    <string name="bangabandhu_sheikh_mujibur_rahman_novo_theatre_type">3D amusement park and theatre</string>
+
+    <string name="ahsan_manzil_museum_phone">02 7391122</string>
+    <string name="lalbagh_fort_phone">01558-998539. </string>
+    <string name="national_martyrs_monument_phone"> n/a </string>
+    <string name="bangladesh_national_museum_phone">02 58614842</string>
+    <string name="bangladesh_national_parliament_phone">002 55028840</string>
+    <string name="liberation_war_museum_phone">09611 677223</string>
+    <string name="dhakeshwari_mandir_phone">01727218085</string>
+    <string name="bangabandhu_sheikh_mujibur_rahman_novo_theatre_phone">02 9138878</string>
+
+    <string name="ahsan_manzil_museum_time">10:30am - 5:30pm, thursday is weekly holiday</string>
+    <string name="lalbagh_fort_time">6:00am - 7:00pm</string>
+    <string name="national_martyrs_monument_time">7:00am - 9:00pm</string>
+    <string name="bangladesh_national_museum_time">10:30am - 5:30pm, Friday. 3:30 PM - 7:30 PM</string>
+    <string name="bangladesh_national_parliament_time">9:am - 5:30 pm,Friday and saturday is weekly holiday, Entry inside parliament building or its surrounding area is strictly prohibited</string>
+    <string name="liberation_war_museum_time">Museum is open on all weekdays except Sunday between 10:00 AM to 6:00 PM, In winter it is open between 10:00 AM to 5:00 PM</string>
+    <string name="dhakeshwari_mandir_time">7:00am - 2:00pm, 04:00pm - 9:00pm</string>
+    <string name="bangabandhu_sheikh_mujibur_rahman_novo_theatre_time">9:30am - 6:30pm, wednesday is weekly holiday</string>
+
+    <string name="ahsan_manzil_museum_address">Dhaka 1000</string>
+    <string name="lalbagh_fort_address">Lalbagh,Dhaka</string>
+    <string name="national_martyrs_monument_address">Aricha Hwy, Savar Union 1344</string>
+    <string name="bangladesh_national_museum_address">Shahbagh Rd,Dhaka</string>
+    <string name="bangladesh_national_parliament_address">Dhaka 1207</string>
+    <string name="liberation_war_museum_address">Civic Centre, Plot : F11/A and F11/B, Dhaka 1207</string>
+    <string name="dhakeshwari_mandir_address">Dhakeshwari Rd, Dhaka</string>
+    <string name="bangabandhu_sheikh_mujibur_rahman_novo_theatre_address"> Bijoy Sarani, Dhaka 1205</string>
+
+    <string name="jamuna_future_park">Jamuna Future Park</string>
+    <string name="basundhara_city">Bashundhara City</string>
+    <string name="mirpur_new_market">Mirpur New Market</string>
+    <string name="dhaka_new_market">New Market</string>
+    <string name="eastern">Eastern Plaza</string>
+    <string name="gulistan">Gulistan Wholesale Market</string>
+
+    <string name="jamuna_future_park_phone"></string>
+    <string name="basundhara_city_phone"></string>
+    <string name="mirpur_new_market_phone"></string>
+    <string name="dhaka_new_market_phone"> </string>
+    <string name="eastern_phone"></string>
+    <string name="gulistan_phone"></string>"
+
+    <string name="jamuna_future_park_time">10:00am - 11:30pm</string>
+    <string name="basundhara_city_time">10:30am - 9:30pm</string>
+    <string name="mirpur_new_marketl_time">10:00am - 11:00pm</string>
+    <string name="dhaka_new_market_time">10:30am - 11:00pm</string>
+    <string name="eastern_time">9:00am - 9:00pm</string>
+    <string name="gulistan_time">11:00am - 11:55pm</string>
+
+    <string name="jamuna_future_park_loc">Kuril</string>
+    <string name="basundhara_cityl_loc">Panthapath</string>
+    <string name="mirpur_new_market_loc">Mirpur 1</string>
+    <string name="dhaka_new_marketl_loc">Dhanmondi</string>
+    <string name="eastern_loc">Elephant Road</string>
+    <string name="gulistan_loc">Gulistan</string>
+
+    <string name="jamuna_future_parkl_address">KA-244, Kuril, Progoti Shoroni, Dhaka</string>
+    <string name="basundhara_city_address">3 No Tejturi Bazar West, Panthapath, Dhaka 1215</string>
+    <string name="mirpur_new_market_address">Mazar Rd, Dhaka 1216</string>
+    <string name="dhaka_new_market_address">Mirpur Rd,Dhaka1205</string>
+    <string name="eastern_address">Eastern plaza, Hatirpoo1, Dhaka-111, Dhaka 1205</string>
+    <string name="gulistan_address">79, B.B Square Patal Sarak A.C Market, Gulistan Road, Dhaka 1000</string>
+
+    <string name="sultans">Sultans Dine</string>
+    <string name="star">Star Kabab</string>
+    <string name="haji">Haji Biriyani</string>
+    <string name="prince">Grand Prince Restaurant</string>
+    <string name="purnima">Hotel Purnima and Kabab Garden</string>
+    <string name="beauty">Beauty Boarding</string>
+
+    <string name="kebab">Kebab</string>
+    <string name="fastfood">Fastfood</string>
+    <string name="bangladeshi">Bangladeshi</string>
+    <string name="chinese">Thai and Chinese</string>
+    <string name="deshi">Bangladeshi,Indian and Kebab</string>
+    <string name="biriyani">Biriyani</string>
+    <string name="kbf">Kebab, Bangladeshi and Fastfood</string>
+    <string name="kccb">Kacchi Biriyani</string>
+
+    <string name="sultans_phone">01903-598625</string>
+    <string name="star_phone">01730-479802</string>
+    <string name="haji_phone"></string>
+    <string name="prince_phone"> 02-48035168</string>
+    <string name="purnima_phone">01917-269580</string>
+    <string name="beauty_phone">01786-268608</string>
+
+    <string name="sultans_time">10:00am - 11:00pm</string>
+    <string name="star_time">6:30am - 12:30pm</string>
+    <string name="haji_time">24/7</string>
+    <string name="prince_time">8:00am - 12:00am </string>
+    <string name="purnima_time">06:45am - 12:30am</string>
+    <string name="beauty_time">7:00am - 11:00pm </string>
+
+    <string name="sultans_url">https://www.sultansdine.com/</string>
+    <string name="star_url">n/a</string>
+    <string name="haji_url">n/a </string>
+    <string name="prince_url">www.grandprince-dhaka.com </string>
+    <string name="purnima_url">n/a </string>
+    <string name="beauty_url">n/a </string>
+
+    <string name="sultans_address">Green Akshay Plaza 1st Floor Satmasjid Road 146/G (Old), 59 (New), Dhaka 1209</string>
+    <string name="star_address">22, House 16 Road No. 2, Dhaka 1209</string>
+    <string name="haji_address">70 Kazi Alauddin Road, Nazira Bazar</string>
+    <string name="prince_address">PARADISE PLAZA, PLOT NO. 6 and 11 MIRPUR-1, Dhaka</string>
+    <string name="purnima_address">Shop - 1, National School Market, Mirpur- 2, Dhaka Dhaka, 1216</string>
+    <string name="beauty_address">Bangla Bazar,Old Dhaka</string>
+
+    <string name="pahela_baishakh">Pahela Baishakh</string>
+    <string name="independence_day">Independence Day</string>
+    <string name="victory_day">Victory Day</string>
+    <string name="shakrain">Shakrain</string>
+    <string name="mother_language">International Mother Language Day</string>
+    <string name="festival">Spring Carnival</string>
+
+    <string name="pahela_baishakh_date">15 April</string>
+    <string name="independence_day_date">26 march</string>
+    <string name="victory_day_date">16 December</string>
+    <string name="shakrain_date">January 14 or 15</string>
+    <string name="mother_language_date">21 february</string>
+    <string name="festival_date">February 13 or 14</string>
+
+    <string name="pahela_baishakh_time">5:00am - 6:00pm</string>
+    <string name="independence_day_time">12:am - 11:59pm</string>
+    <string name="victory_day_time">12:00am - 11:59pm</string>
+    <string name="shakrain_time">5:00pm - 12:00am</string>
+    <string name="mother_language_time">9:00am</string>
+    <string name="festival_time">6:00am - 6:00pm</string>
+
+    <string name="pahela_baishakh_place">TSC Dhaka, Ramna park</string>
+    <string name="independence_day_place">Sohrawardi uddan</string>
+    <string name="victory_day_place">Sohrawardi uddan</string>
+    <string name="shakrain_place">Old Dhaka</string>
+    <string name="mother_languaget_place">Jatiya Shaheed Minar</string>
+    <string name="festival_place">TSC Dhaka,Ramna Park</string>
+
+    <string name="pahela_baishakh_url">https://en.wikipedia.org/wiki/Pohela_Boishakh</string>
+    <string name="independence_day_url">https://en.wikipedia.org/wiki/Independence_Day_(Bangladesh)/</string>
+    <string name="victory_day_url">https://en.wikipedia.org/wiki/Victory_Day_(Bangladesh)</string>
+    <string name="shakrain_url">https://en.wikipedia.org/wiki/Shakrain</string>
+    <string name="mother_language_url">https://en.wikipedia.org/wiki/International_Mother_Language_Day</string>
+    <string name="festival_url">https://en.wikipedia.org/wiki/Pahela_Falgun</string>
+
+    <string name="no_phone">Phone number not found.</string>
+    <string name="no_website">Website not found.</string>
+    <string name="no_location">Unable to locate on the maps.</string>
+    <string name="dummy_text">we will update this section soon, please stay with us!</string>
+    <string name="about">About</string>
+    <string name="dot_separator">\u2022</string>
+
+</resources>

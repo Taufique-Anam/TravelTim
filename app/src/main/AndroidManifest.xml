@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.tfu.examples.android.TravelTim">
+
+    <application
+        android:allowBackup="true"
+        android:fullBackupContent="true"
+        android:icon="@mipmap/splash_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/splash_logo_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity
+            android:name="com.tfu.examples.android.TravelTim.Activity.SplashActivity"
+            android:exported="true"
+            android:configChanges="orientation"
+            android:theme="@style/AppTheme.NoActionBar"
+            tools:ignore="InnerclassSeparator">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tfu.examples.android.TravelTim.Activity.MainActivity"
+            android:configChanges="orientation"
+            android:theme="@style/AppTheme.NoActionBar"
+            tools:ignore="InnerclassSeparator" />
+        <activity
+            android:name="com.tfu.examples.android.TravelTim.Activity.DetailActivity"
+            android:configChanges="orientation"
+            tools:ignore="InnerclassSeparator" />
+    </application>
+</manifest>

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hotelImgID">
+        <item>@drawable/radisson_blu</item>
+        <item>@drawable/pan_pacific_sonargaon</item>
+        <item>@drawable/the_westin</item>
+        <item>@drawable/intercontinental_hotel</item>
+        <item>@drawable/dhaka_regency</item>
+        <item>@drawable/le_meridien</item>
+        <item>@drawable/six_seasons</item>
+        <item>@drawable/platinum_grand</item>
+    </string-array>
+
+    <string-array name="hotelName">
+        <item>@string/radisson_blu_water_Garden</item>
+        <item>@string/pan_pacific_sonargaon</item>
+        <item>@string/the_westin</item>
+        <item>@string/intercontinental_hotel</item>
+        <item>@string/dhaka_regency</item>
+        <item>@string/le_meridien</item>
+        <item>@string/six_seasons</item>
+        <item>@string/platinum_grand_banani</item>
+    </string-array>
+
+    <string-array name="hotelRating">
+        <item>4.8</item>
+        <item>4.7</item>
+        <item>4.5</item>
+        <item>4.5</item>
+        <item>4.4</item>
+        <item>4.2</item>
+        <item>4.3</item>
+        <item>4.0</item>
+    </string-array>
+
+    <string-array name="hotelType">
+        <item>@string/five_star</item>
+        <item>@string/five_star</item>
+        <item>@string/five_star</item>
+        <item>@string/five_star</item>
+        <item>@string/four_star</item>
+        <item>@string/five_star</item>
+        <item>@string/four_star</item>
+        <item>@string/four_star</item>
+    </string-array>
+
+    <string-array name="hotelPhone">
+        <item>@string/radisson_blu_water_Garden_phone</item>
+        <item>@string/pan_pacific_sonargaon_phone</item>
+        <item>@string/the_westin_phone</item>
+        <item>@string/intercontinental_hotel_phone</item>
+        <item>@string/dhaka_regency_phone</item>
+        <item>@string/le_meridien_phone</item>
+        <item>@string/six_seasons_phone</item>
+        <item>@string/platinum_grand_banani_phone</item>
+    </string-array>
+
+    <string-array name="hotelAddress">
+        <item>@string/radisson_blu_water_Garden_address</item>
+        <item>@string/pan_pacific_sonargaon_address</item>
+        <item>@string/the_westin_address</item>
+        <item>@string/intercontinental_hotel_address</item>
+        <item>@string/dhaka_regency_address</item>
+        <item>@string/le_meridien_address</item>
+        <item>@string/six_seasons_address</item>
+        <item>@string/platinum_grand_banani_address</item>
+    </string-array>
+
+    <string-array name="placeImageId">
+        <item>@drawable/ahsan_manzil</item>
+        <item>@drawable/lalbagh_fort</item>
+        <item>@drawable/martyrs_monument</item>
+        <item>@drawable/national_museum</item>
+        <item>@drawable/bangladesh_parliament</item>
+        <item>@drawable/war_museum</item>
+        <item>@drawable/temple</item>
+        <item>@drawable/novo_theatre</item>
+    </string-array>
+
+    <string-array name="placeName">
+        <item>@string/ahsan_manzil_museum</item>
+        <item>@string/lalbagh_fort</item>
+        <item>@string/national_martyrs_monument</item>
+        <item>@string/bangladesh_national_museum</item>
+        <item>@string/bangladesh_national_parliament</item>
+        <item>@string/liberation_war_museum</item>
+        <item>@string/dhakeshwari_mandir</item>
+        <item>@string/bangabandhu_sheikh_mujibur_rahman_novo_theatre</item>
+    </string-array>
+
+    <string-array name="placeRating">
+        <item>4.5</item>
+        <item>4.5</item>
+        <item>4.5</item>
+        <item>4.6</item>
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.5</item>
+        <item>4.5</item>
+    </string-array>
+
+    <string-array name="placeType">
+        <item>@string/ahsan_manzil_museum_type</item>
+        <item>@string/lalbagh_fort_type</item>
+        <item>@string/national_martyrs_monument_type</item>
+        <item>@string/bangladesh_national_museum_type</item>
+        <item>@string/bangladesh_national_parliament_type</item>
+        <item>@string/liberation_war_museum_type</item>
+        <item>@string/dhakeshwari_mandir_type</item>
+        <item>@string/bangabandhu_sheikh_mujibur_rahman_novo_theatre_type</item>
+    </string-array>
+
+    <string-array name="placePhone">
+        <item>@string/ahsan_manzil_museum_phone</item>
+        <item>@string/lalbagh_fort_phone</item>
+        <item>@string/national_martyrs_monument_phone</item>
+        <item>@string/bangladesh_national_museum_phone</item>
+        <item>@string/bangladesh_national_parliament_phone</item>
+        <item>@string/liberation_war_museum_phone</item>
+        <item>@string/dhakeshwari_mandir_phone</item>
+        <item>@string/bangabandhu_sheikh_mujibur_rahman_novo_theatre_phone</item>
+    </string-array>
+
+    <string-array name="placeTime">
+        <item>@string/ahsan_manzil_museum_time</item>
+        <item>@string/lalbagh_fort_time</item>
+        <item>@string/national_martyrs_monument_time</item>
+        <item>@string/bangladesh_national_museum_time</item>
+        <item>@string/bangladesh_national_parliament_time</item>
+        <item>@string/liberation_war_museum_time</item>
+        <item>@string/dhakeshwari_mandir_time</item>
+        <item>@string/bangabandhu_sheikh_mujibur_rahman_novo_theatre_time</item>
+    </string-array>
+
+    <string-array name="placeAddress">
+        <item>@string/ahsan_manzil_museum_address</item>
+        <item>@string/lalbagh_fort_address</item>
+        <item>@string/national_martyrs_monument_address</item>
+        <item>@string/bangladesh_national_museum_address</item>
+        <item>@string/bangladesh_national_parliament_address</item>
+        <item>@string/liberation_war_museum_address</item>
+        <item>@string/dhakeshwari_mandir_address</item>
+        <item>@string/bangabandhu_sheikh_mujibur_rahman_novo_theatre_address</item>
+    </string-array>
+
+    <string-array name="shopImgId">
+        <item>@drawable/jamuna_future_park</item>
+        <item>@drawable/bashundhara_city</item>
+        <item>@drawable/mirpur_new_market</item>
+        <item>@drawable/dhaka_new_market</item>
+        <item>@drawable/eastern_plazza</item>
+        <item>@drawable/gulistan</item>
+    </string-array>
+
+    <string-array name="shopName">
+        <item>@string/jamuna_future_park</item>
+        <item>@string/basundhara_city</item>
+        <item>@string/mirpur_new_market</item>
+        <item>@string/dhaka_new_market</item>
+        <item>@string/eastern</item>
+        <item>@string/gulistan</item>
+    </string-array>
+
+    <string-array name="shopRating">
+        <item>4.8</item>
+        <item>4.9</item>
+        <item>4.5</item>
+        <item>4.0</item>
+        <item>4.0</item>
+        <item>3.8</item>
+    </string-array>
+
+    <string-array name="shopPlace">
+        <item>@string/jamuna_future_park_loc</item>
+        <item>@string/basundhara_cityl_loc</item>
+        <item>@string/mirpur_new_market_loc</item>
+        <item>@string/dhaka_new_marketl_loc</item>
+        <item>@string/eastern_loc</item>
+        <item>@string/gulistan_loc</item>
+    </string-array>
+
+    <string-array name="shopPhone">
+        <item>@string/jamuna_future_park_phone</item>
+        <item>@string/basundhara_city_phone</item>
+        <item>@string/mirpur_new_market_phone</item>
+        <item>@string/dhaka_new_market_phone</item>
+        <item>@string/eastern_phone</item>
+        <item>@string/gulistan_phone</item>
+    </string-array>
+
+    <string-array name="shopTime">
+        <item>@string/jamuna_future_park_time</item>
+        <item>@string/basundhara_city_time</item>
+        <item>@string/mirpur_new_marketl_time</item>
+        <item>@string/dhaka_new_market_time</item>
+        <item>@string/eastern_time</item>
+        <item>@string/gulistan_time</item>
+    </string-array>
+
+    <string-array name="shopAddress">
+        <item>@string/jamuna_future_parkl_address</item>
+        <item>@string/basundhara_city_address</item>
+        <item>@string/mirpur_new_market_address</item>
+        <item>@string/dhaka_new_market_address</item>
+        <item>@string/eastern_address</item>
+        <item>@string/gulistan_address</item>
+    </string-array>
+
+    <string-array name="restoImgId">
+        <item>@drawable/sultan</item>
+        <item>@drawable/star_kabab</item>
+        <item>@drawable/haji</item>
+        <item>@drawable/prince</item>
+        <item>@drawable/purnima</item>
+        <item>@drawable/beauty</item>
+    </string-array>
+
+    <string-array name="restoName">
+        <item>@string/sultans</item>
+        <item>@string/star</item>
+        <item>@string/haji</item>
+        <item>@string/prince</item>
+        <item>@string/purnima</item>
+        <item>@string/beauty</item>
+    </string-array>
+
+    <string-array name="restoRating">
+        <item>4.5</item>
+        <item>4.4</item>
+        <item>4.8</item>
+        <item>4.4</item>
+        <item>4.6</item>
+        <item>4.3</item>
+    </string-array>
+
+    <string-array name="restoType">
+        <item>@string/kccb</item>
+        <item>@string/kbf</item>
+        <item>@string/biriyani</item>
+        <item>@string/chinese</item>
+        <item>@string/deshi</item>
+        <item>@string/bangladeshi</item>
+    </string-array>
+
+    <string-array name="restoPhone">
+        <item>@string/sultans_phone</item>
+        <item>@string/star_phone</item>
+        <item>@string/haji_phone</item>
+        <item>@string/prince_phone</item>
+        <item>@string/purnima_phone</item>
+        <item>@string/beauty_phone</item>
+    </string-array>
+
+    <string-array name="restoTime">
+        <item>@string/sultans_time</item>
+        <item>@string/star_time</item>
+        <item>@string/haji_time</item>
+        <item>@string/prince_time</item>
+        <item>@string/purnima_time</item>
+        <item>@string/beauty_time</item>
+    </string-array>
+
+    <string-array name="restoAddress">
+        <item>@string/sultans_address</item>
+        <item>@string/star_address</item>
+        <item>@string/haji_address</item>
+        <item>@string/prince_address</item>
+        <item>@string/purnima_address</item>
+        <item>@string/beauty_address</item>
+    </string-array>
+
+    <string-array name="restoUrl">
+        <item>@string/sultans_url</item>
+        <item>@string/star_url</item>
+        <item>@string/haji_url</item>
+        <item>@string/prince_url</item>
+        <item>@string/purnima_url</item>
+        <item>@string/beauty_url</item>
+    </string-array>
+
+    <string-array name="eventImgId">
+        <item>@drawable/pahela_baishakh</item>
+        <item>@drawable/independence</item>
+        <item>@drawable/victory_day</item>
+        <item>@drawable/shakrain</item>
+        <item>@drawable/language_day</item>
+        <item>@drawable/festival</item>
+    </string-array>
+
+    <string-array name="eventName">
+        <item>@string/pahela_baishakh</item>
+        <item>@string/independence_day</item>
+        <item>@string/victory_day</item>
+        <item>@string/shakrain</item>
+        <item>@string/mother_language</item>
+        <item>@string/festival</item>
+    </string-array>
+
+    <string-array name="eventDate">
+        <item>@string/pahela_baishakh_date</item>
+        <item>@string/independence_day_date</item>
+        <item>@string/victory_day_date</item>
+        <item>@string/shakrain_date</item>
+        <item>@string/mother_language_date</item>
+        <item>@string/festival_date</item>
+    </string-array>
+
+    <string-array name="eventTime">
+        <item>@string/pahela_baishakh_time</item>
+        <item>@string/independence_day_time</item>
+        <item>@string/victory_day_time</item>
+        <item>@string/shakrain_time</item>
+        <item>@string/mother_language_time</item>
+        <item>@string/festival_time</item>
+    </string-array>
+
+    <string-array name="eventPlace">
+        <item>@string/pahela_baishakh_place</item>
+        <item>@string/independence_day_place</item>
+        <item>@string/victory_day_place</item>
+        <item>@string/shakrain_place</item>
+        <item>@string/mother_languaget_place</item>
+        <item>@string/festival_place</item>
+    </string-array>
+
+    <string-array name="eventUrl">
+        <item>@string/pahela_baishakh_url</item>
+        <item>@string/independence_day_url</item>
+        <item>@string/victory_day_url</item>
+        <item>@string/shakrain_url</item>
+        <item>@string/mother_language_url</item>
+        <item>@string/festival_url</item>
+    </string-array>
+</resources>
